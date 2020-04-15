@@ -21,11 +21,13 @@ h1{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large;
+    color: darkorange;
 }
 h2{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large;
+    color: darkorange;
 }
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
@@ -41,10 +43,11 @@ h2{
     display: table;
   }
   body{
-     background-image: url(https://bit.ly/2RCQHrw);
-     
+   background-color: cyan;
+  }
   h3{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large;
+    color: darkorange;
 }
